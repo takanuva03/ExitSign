@@ -2,7 +2,7 @@
 Angel Hernandez, Will Field, Conner Donnelly
 
 ## Mentor
-Dr. Arthur Ball is our advisor for this project
+Dr. Arthur Ball 
 
 ## Current Status
 IN PROGRESS
