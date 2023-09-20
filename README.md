@@ -1,6 +1,5 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Angel Hernandez, Will Field, Conner Donnelly
 
 ## Mentor
 MENTOR NAME HERE
@@ -9,12 +8,13 @@ MENTOR NAME HERE
 IN PROGRESS
 
 ## Project Overview
+To help universities save money by developing a durable-tamper-resistant exit sign. Our exit signs use strong but flexible polymers and spring-loaded mounts in order to be nearly indestructible by usual vandalism. We have also designed a PCB for the sign and plan to implement a PWM signal for LEDs into the design.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Exit signs cost anywhere from $30-250 to replace depending on location and quality.  Over recent years, universities have had to deal with an endemic of students damaging exit signs, which leads to very costly repairs.
+According to VT Housing, Virginia Tech spent over $20000 replacing exit signs just last year.
 
 ## Tasks
 
