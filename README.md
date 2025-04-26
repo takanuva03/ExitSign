@@ -14,10 +14,10 @@ According to VT Housing, Virginia Tech spent over $20000 replacing exit signs ju
 ## Educational Value Added
 The project will help with PCB design, soldering components onto PCBs, testing PCBs with time-varying signals, and reading and understanding specification sheets for components.
 
-
 ## Tasks
 
 PCB has been designed and finalized.
+PCB prototype has been manufactured by JLCPCB and has been populated.
 
 ## Design Decisions
 
@@ -28,7 +28,9 @@ PCB has been designed and finalized.
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Steps for Documenting Your Design Process
+PCB:
 ![image](https://github.com/user-attachments/assets/bf1dff79-732d-4694-9a08-b4200f9e8a25)
+
 
 ## BOM + Component Cost
 
