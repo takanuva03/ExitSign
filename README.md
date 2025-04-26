@@ -5,7 +5,7 @@ Angel Hernandez, Will Field, Conner Donnelly
 Dr. Arthur Ball 
 
 ## Current Status
-IN PROGRESS
+Complete
 
 ## Project Overview
 Exit signs cost anywhere from $30-250 to replace depending on location and quality.  Over recent years, universities have had to deal with an endemic of students damaging exit signs, which leads to very costly repairs.
@@ -17,7 +17,7 @@ The project will help with PCB design, soldering components onto PCBs, testing P
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+PCB has been designed and finalized.
 
 ## Design Decisions
 
