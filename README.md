@@ -28,8 +28,7 @@ PCB has been designed and finalized.
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Steps for Documenting Your Design Process
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+![image](https://github.com/user-attachments/assets/bf1dff79-732d-4694-9a08-b4200f9e8a25)
 
 ## BOM + Component Cost
 
